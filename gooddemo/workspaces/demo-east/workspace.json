@@ -1,14 +1,14 @@
 {
   "data": {
     "attributes": {
-      "name": "Demo"
+      "name": "Demo East"
     },
-    "id": "demo",
+    "id": "demo-east",
     "type": "workspace",
     "relationships": {
       "parent": {
         "data": {
-          "id": "test",
+          "id": "demo",
           "type": "workspace"
         }
       }

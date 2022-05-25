@@ -1,3 +1,3 @@
 {
-  "workspaces": ["demo"]
+  "workspaces": ["demo", "demo-west", "demo-west-california", "demo-east"]
 }
