@@ -1,0 +1,5 @@
+# for development on localhost
+faker==15.0.0
+numpy==1.23.2
+DateTime~=4.7
+PyYAML~=5.4.1

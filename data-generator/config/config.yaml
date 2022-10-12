@@ -1,0 +1,47 @@
+days: 730
+timePercentage:
+  hour:
+    merchant__clothing:
+      from: 7
+      to: 23
+      percentage: 95
+    merchant__bigboxretailer:
+      from: 6
+      to: 23
+      percentage: 90
+    merchant__electronics:
+      from: 6
+      to: 23
+      percentage: 85
+newCustomerInMonth:
+  merchant__clothing: 10
+  merchant__bigboxretailer: 15
+  merchant__electronics: 20
+orderPerDay:
+  merchant__clothing:
+    min: 5
+    max: 40
+  merchant__bigboxretailer:
+    min: 10
+    max: 50
+  merchant__electronics:
+    min: 15
+    max: 60
+orderStatusPercentage:
+  inCart:
+    currentMonth: 30
+    last3Months: 10
+    otherMonths: 5
+  canceled:
+    min: 3
+    max: 10
+returnPercentage:
+  merchant__clothing:
+    min: 1
+    max: 4
+  merchant__bigboxretailer:
+    min: 2
+    max: 6
+  merchant__electronics:
+    min: 3
+    max: 7

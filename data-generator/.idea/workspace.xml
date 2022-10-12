@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f180727-3330-48c7-8521-d848f57cced0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/rules/array_select_single_item_rule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rules/id_rule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rules/range_rule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rules/time_percentage_rule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/dates.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/exporters.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/providers.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/templates.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contexts/data_generator_context.py" beforeDir="false" afterPath="$PROJECT_DIR$/contexts/data_generator_context.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csvs/products.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_generate.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_generate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_selectors/array_percentage_selector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_selectors/array_range_selector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_selectors/array_selector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_selectors/array_single_selector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_selectors/range_selector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_selectors/selector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_selectors/sub_range_percentage_selector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_summarize.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_summarize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date_dimension.py" beforeDir="false" afterPath="$PROJECT_DIR$/date_dimension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exporters/customer_exporter.py" beforeDir="false" afterPath="$PROJECT_DIR$/exporters/customer_exporter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exporters/exporter.py" beforeDir="false" afterPath="$PROJECT_DIR$/exporters/exporter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exporters/monthly_inventory_exporter.py" beforeDir="false" afterPath="$PROJECT_DIR$/exporters/monthly_inventory_exporter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exporters/order_exporter.py" beforeDir="false" afterPath="$PROJECT_DIR$/exporters/order_exporter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exporters/order_line_exporter.py" beforeDir="false" afterPath="$PROJECT_DIR$/exporters/order_line_exporter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exporters/product_exporter.py" beforeDir="false" afterPath="$PROJECT_DIR$/exporters/product_exporter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exporters/return_exporter.py" beforeDir="false" afterPath="$PROJECT_DIR$/exporters/return_exporter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/generators/generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/monthly_inventory_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/generators/monthly_inventory_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/order_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/generators/order_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/order_line_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/generators/order_line_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/product_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/generators/product_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/return_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/generators/return_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/customer_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/customer_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/order_line_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/order_line_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/order_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/order_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/product_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/product_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/return_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/return_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/customers.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/monthly_inventories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/order_lines.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/orders.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/products.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/returns.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/columns/customer_column_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/columns/monthly_inventory_column_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/columns/order_column_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/columns/order_line_column_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/columns/product_column_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/columns/return_column_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/commons/array_percentage_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/commons/array_range_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/commons/array_single_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/commons/date_per_month_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/commons/id_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/commons/range_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/commons/time_percentage_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/rows/monthly_inventory_row_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/rows/order_line_row_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/rows/order_row_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/rows/product_row_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/rows/return_row_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rules/rule.py" beforeDir="false" afterPath="$PROJECT_DIR$/rules/rule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/summarizes/customer_summarize.py" beforeDir="false" afterPath="$PROJECT_DIR$/summarizes/customer_summarize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/summarizes/order_summarize.py" beforeDir="false" afterPath="$PROJECT_DIR$/summarizes/order_summarize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/summarizes/summarize.py" beforeDir="false" afterPath="$PROJECT_DIR$/summarizes/summarize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/csv_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/templates/csv_template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/writers/csv_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/writers/csv_writer.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FlbHKpesTiWXFMAHLGGp7Un40W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/nishua/GoodData/github/gooddata-public-demos/data-generator/rules",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="data-generator" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="data-generator" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rules" />
+      <recent name="$PROJECT_DIR$/summarizes" />
+      <recent name="$PROJECT_DIR$/generators/columns" />
+      <recent name="$PROJECT_DIR$/generators/rows" />
+      <recent name="$PROJECT_DIR$/rules/commons" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rules" />
+      <recent name="$PROJECT_DIR$/sample" />
+      <recent name="$PROJECT_DIR$/rules/commons" />
+      <recent name="$PROJECT_DIR$/rules/rows" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.data_generate">
+    <configuration name="data_generate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data-generator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_generate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data-generator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.data_generate" />
+        <item itemvalue="Python.data_generator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f180727-3330-48c7-8521-d848f57cced0" name="Changes" comment="" />
+      <created>1665069528367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665069528367</updated>
+    </task>
+    <task id="LOCAL-00001" summary="FEATURE: MPNT-137 Script for generating sample data">
+      <created>1665591239813</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665591239813</updated>
+    </task>
+    <task id="LOCAL-00002" summary="FEATURE: MPNT-137 Script for generating sample data">
+      <created>1665738209162</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665738209162</updated>
+    </task>
+    <task id="LOCAL-00003" summary="FEATURE: MPNT-137 Script for generating sample data">
+      <created>1666079480699</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666079480699</updated>
+    </task>
+    <task id="LOCAL-00004" summary="FEATURE: MPNT-137 Script for generating sample data">
+      <created>1666756754317</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666756754317</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="FEATURE: MPNT-137 Script for generating sample data" />
+    <option name="LAST_COMMIT_MESSAGE" value="FEATURE: MPNT-137 Script for generating sample data" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/generators/columns/order_column_generator.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/generators/columns/order_column_generator.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rules/sub_range_percentage_rule.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rules/sub_range_percentage_rule.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rules/sub_range_percentage_rule.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.context.date_dimension.is_last_day_in_month(date)" />
+        <watch expression="self.context.products" />
+        <watch expression="Grouper().group_array_by_field(self.context.orders, &quot;status.name&quot;)" />
+        <watch expression="getattr(element, &quot;percentage&quot;)" />
+        <watch expression="element[&quot;percentage&quot;]" language="Python" />
+        <watch expression="self._new_customers_map" />
+        <watch expression="self._cache" />
+        <watch expression="Grouper().group_array_by_field(self.context.orders, &quot;client_id&quot;)" />
+        <watch expression="self.context.date_dimension.get_month_key()" />
+        <watch expression="canceled_rule.apply()" />
+        <watch expression="self._rule.apply(3, 3, self._percentage)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
